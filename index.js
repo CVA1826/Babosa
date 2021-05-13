@@ -4,5 +4,4 @@ console.log("Te necesito en mi vida")
 console.log("muaaackkkk")
 
 alert("Te amoooo")
-alert("Callate y besame.")
-alert("digo digo..., nah a la vrga, sí quiero un beso tuyo.")
+alert("Besame, amor :3")
